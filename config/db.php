@@ -1,9 +1,9 @@
 <?php
     // Config file for handling DB access
     $server = "localhost";
-    $user = "demo";
-    $password = "ASDasd@123";
-    $dbname = "cywsitec_demo";
+    $user = "root";
+    $password = "";
+    $dbname = "tutor";
 
     $conn =  mysqli_connect($server, $user, $password, $dbname);
 
