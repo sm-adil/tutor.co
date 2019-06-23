@@ -4,7 +4,7 @@ Educational website used to publish and maintain the assignments published by th
 
 ## Project details
 
-This project is built using Core PHP and MySQL database. The website is designed and developed by [Me](https://gihub.com/mohammed-adil).
+This project is built using Core PHP and MySQL database. The website is designed and developed by [Me](https://gihub.com/mohammed-adil). Check out the project in action in [tutor.co](http://tutor-co.000webhostapp.com/).
 
 ## Project setup
 
